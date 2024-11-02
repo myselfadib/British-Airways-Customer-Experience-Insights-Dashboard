@@ -1,5 +1,5 @@
 # British-Airways-Customer-Experience-Insights-Dashboard
-
+![alt text](https://github.com/myselfadib/British-Airways-Customer-Experience-Insights-Dashboard/blob/main/British%20Airways.png)
 ### Summary
 The "British Airways Customer Experience Insights Dashboard" is an advanced Tableau-based tool that meticulously analyzes customer feedback data across various service metrics. This dashboard showcases a data-driven approach to business intelligence, utilizing Tableau's robust functionalities to provide strategic insights. Designed for interactive data exploration, it features advanced data visualization techniques and real-time analytics tailored to enhancing airline service quality.
 
